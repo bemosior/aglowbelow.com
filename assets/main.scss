@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body { 
-  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Courier New", Courier, monospace !important;
+  font: 400 16px/1.5 "Courier New", Courier, monospace !important;
   color: #111;
   background-color: #fdfdfd; -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
