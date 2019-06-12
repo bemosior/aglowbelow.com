@@ -2,9 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
 
 body { 
-  font: 400 16px/1.5 "Courier New", Courier, monospace !important;
+  font: 400 16px/1.5 "Karla", sans-serif;
   color: #111;
   background-color: #fdfdfd; -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
