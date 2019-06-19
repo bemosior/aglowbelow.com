@@ -10,7 +10,7 @@ layout: page
 
 I structure and facilitate **concentrated reflective processes** for spiritually oriented people from all walks of life.
 
-The people I work with may find themselves experiencing stagnation, uncertainty, frustration, dissatisfaction, disillusionment, grief, and other similar feelings that indicate change and a need for growth. 
+The people I work with may find themselves experiencing stagnation, uncertainty, frustration, dissatisfaction, disillusionment, grief, and other similar feelings that indicate change or a need for growth.
 
 My clients know how to reflect in order to create a more satisfying situation for themselves and others. They have self-knowledge, maturity, and autonomy, and are looking for help that respects and expands their abilities. 
 
