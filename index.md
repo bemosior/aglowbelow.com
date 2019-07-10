@@ -4,9 +4,7 @@
 
 layout: page
 ---
-
-**[Amanda Lowe](mailto:amandalowe@aglowbelow.com)**<br/>
-**Reflective Services**
+[![Amanda Lowe](/assets/logo.png "Amanda Lowe")](mailto:amandalowe@aglowbelow.com)
 
 I structure and facilitate **concentrated reflective processes** for spiritually oriented people from all walks of life.
 
